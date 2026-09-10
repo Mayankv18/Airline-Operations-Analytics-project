@@ -50,6 +50,8 @@ The project contains **5 interactive Tableau dashboards**.
 
 ## 1️⃣ Dashboard 1 — Flight Operations Overview
 
+<img width="1913" height="1043" alt="Image" src="https://github.com/user-attachments/assets/89e4257b-cdb1-412d-8c74-80c222a254e7" />
+
 ### Focus
 Understanding overall flight volume, airline presence, origin hubs, destinations, and yearly activity.
 
@@ -78,6 +80,8 @@ Understanding overall flight volume, airline presence, origin hubs, destinations
 ---
 
 ## 2️⃣ Dashboard 2 — Airline Performance Analytics
+
+<img width="1917" height="1043" alt="Image" src="https://github.com/user-attachments/assets/f60ceac3-9e9d-4e49-bcac-ed730f9f7ba1" />
 
 ### Focus
 Comparing airlines based on arrival delays, departure delays, cancellations, and overall performance.
@@ -108,6 +112,8 @@ Comparing airlines based on arrival delays, departure delays, cancellations, and
 
 ## 3️⃣ Dashboard 3 — Delay & Operational Risk Analysis
 
+<img width="1917" height="1032" alt="Image" src="https://github.com/user-attachments/assets/048ea9d1-bb78-4516-a114-f9b942691f83" />
+
 ### Focus
 Identifying the operational factors responsible for delays and determining high-risk airlines and origins.
 
@@ -132,6 +138,8 @@ Identifying the operational factors responsible for delays and determining high-
 
 ## 4️⃣ Dashboard 4 — Distance, Delay & Outlier Analysis
 
+<img width="1917" height="1032" alt="Image" src="https://github.com/user-attachments/assets/77e572ce-4070-460b-a15e-eec7028688cf" />
+
 ### Focus
 Analyzing the relationship between flight distance and arrival delay while identifying extreme delay flights and airline-level variability.
 
@@ -153,6 +161,8 @@ Analyzing the relationship between flight distance and arrival delay while ident
 ---
 
 ## 5️⃣ Dashboard 5 — Delay Distribution & Time Analysis
+
+<img width="1917" height="1038" alt="Image" src="https://github.com/user-attachments/assets/d01208d4-df9d-477f-9cf5-af560ddd9de3" />
 
 ### Focus
 Understanding the distribution of delays and identifying delay patterns across years, airlines, and months.
