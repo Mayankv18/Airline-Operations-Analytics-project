@@ -1,4 +1,3 @@
-# Airline-Operations-Analytics-project
 # ✈️ Airline Operations & Performance Analytics | Tableau
 
 An end-to-end **Airline Operations Analytics Dashboard** built using **Tableau** to analyze flight activity, airline performance, delays, cancellations, operational issues, outliers, and delay patterns.
